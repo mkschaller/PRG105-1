@@ -15,7 +15,7 @@ print('\nGraduated with an AAS in Web Design and Development and an AAS in Graph
 #   Write a statement that displays
 #   The dog says "woof!"
 print('The dog says "woof!"\n')
-s
+
 # TODO 2.4 working with and printing variables
 #   Declare a variable named age, and set the initial value to your age
 #   Print the variable
